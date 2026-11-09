@@ -6,7 +6,7 @@ A multi-page Power BI report I designed and built to show data reconciliation, d
 
 ![Cost & Budget Overview](screenshots/overview.png)
 
-**[View the full report as a PDF](Overtime-Dashboard.pdf)** (no Power BI needed) or download the [Power BI file](Overtime-Dashboard.pbix).
+**[View the full report as a PDF](Practice_Overtime_Dashboard.pdf)** (no Power BI needed) or download the [Power BI file](Practice_Overtime_Dashboard.pbix).
 
 ## The Questions Each Page Answers
 
